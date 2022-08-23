@@ -1,0 +1,36 @@
+:root {
+    --ourblue: #62BBCB;
+    --mainblack: #F6F4F7;
+    ;
+    --ouryellow: #F3E349;
+  }  
+
+.text-ourBlue{
+    color: var(--ourblue);
+}
+
+.our-yellow{
+    background-color: var(--ouryellow);
+}
+
+.our-black{
+    background-color: var(--mainblack);
+}
+
+.our-blue{
+    background-color: var(--ourblue);
+}
+
+.logo{
+    height: 60px;
+}
+
+.nav-icons{
+    height: 20px;
+    width: 20px;
+    float: right;
+}
+
+.Profile{
+    float: right;
+}
